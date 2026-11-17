@@ -1,4 +1,4 @@
-```text
+
 ====================================================================
                   SPORE EXTENDED TRAVEL RADIUS v1.1
                           by Jasiek100
@@ -11,6 +11,7 @@ that dynamically expands your spaceship's interstellar travel/warp
 radius beyond standard 20parsec limit.
 
 HOW TO USE:
+https://github.com/Jasiek100/spore_extended_travel_radius/releases/tag/v1.0.0
 1. Start Spore and load your save in Space Stage.
 2. Launch 'extended_travel_radius.exe' (or run 'etr.bat').
 3. Select your desired travel radius.
